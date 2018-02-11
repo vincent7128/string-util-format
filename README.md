@@ -32,7 +32,6 @@ format(test, {0: 'Davie', 1: 'Mary'}); // return 'Hello, Davie and Mary'
 var test = 'Hello, {gender} {last-name}';
 format(test, {gender: 'Mr.', 'last-name': 'Solo'}); // return 'Hello, Mr. Solo'
 
-var format = require('./index');
 test = '{year}/{month}/{date} {week} {hour}:{min}:{sec}';
 format(test, new Date(1977, 1, 2, 3, 4, 5)); // return '1977/02/02 WED 03:04:05'
 ```
