@@ -7,15 +7,15 @@ Simple string format for javascript
 NPM:
 
 ```
-npm install string-format
+npm install string-util-format
 
-var format = require('string-format');
+var format = require('string-util-format');
 ```
 
 CDN:
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/string-format/index.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/string-util-format/index.js"></script>
 ```
 
 Code example:

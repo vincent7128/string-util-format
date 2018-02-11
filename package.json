@@ -1,5 +1,5 @@
 {
-  "name": "string-format",
+  "name": "string-util-format",
   "version": "0.1.0",
   "description": "Simple string format",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vincent7128/string-format.git"
+    "url": "git+https://github.com/vincent7128/string-util-format.git"
   },
   "keywords": [
     "string",
@@ -17,7 +17,7 @@
   "author": "Vincent Chen <vincent@pinpin.link>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vincent7128/string-format/issues"
+    "url": "https://github.com/vincent7128/string-util-format/issues"
   },
-  "homepage": "https://github.com/vincent7128/string-format#readme"
+  "homepage": "https://github.com/vincent7128/string-util-format#readme"
 }
