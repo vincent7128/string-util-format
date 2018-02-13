@@ -12,7 +12,7 @@
         src = format(src, {
           year: arguments[i].getFullYear(),
           month: ('0' + (arguments[i].getMonth() + 1)).slice(-2),
-          date: ('0' + arguments[i].getDate()).slice(-2),
+          day: ('0' + arguments[i].getDate()).slice(-2),
           week: WEEKS[arguments[i].getDay()],
           hour: ('0' + arguments[i].getHours()).slice(-2),
           min: ('0' + arguments[i].getMinutes()).slice(-2),
